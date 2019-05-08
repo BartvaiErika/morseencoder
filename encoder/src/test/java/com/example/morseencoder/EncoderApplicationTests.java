@@ -1,4 +1,4 @@
-package com.example.morse;
+package com.example.morseencoder;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class MorsePartForMorseencoderApplicationTests {
+public class EncoderApplicationTests {
 
   @Test
   public void contextLoads() {
